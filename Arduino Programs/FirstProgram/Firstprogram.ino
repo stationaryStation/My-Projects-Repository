@@ -1,5 +1,5 @@
 // Code by Raúl "Station" Pérez at 1:38 pm AST on April 13 2021. Platform: VSCode/PlatformIO 
-// More of this projects are available at www.github.com/stationaryStation/arduinoProjects/ (You need to clone with git via the following command: git clone https://github.com/stationaryStation/arduinoProjects.git)
+// More of this projects are available at www.github.com/stationaryStation/My-Projects-Repository/ (You need to clone with git via the following command: git clone https://github.com/stationaryStation/arduinoProjects.git)
 // Shared with the Live Share Extension @ Visual Studio Code
 void setup()
 {
