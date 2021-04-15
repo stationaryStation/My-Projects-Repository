@@ -1,0 +1,34 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.productIconTheme": "fluent-icons",
+    "arduino.path": "C:\\Program Files (x86)\\Arduino\\",
+    "C_Cpp.updateChannel": "Insiders",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "python.linting.banditArgs": [
+        "--ignored-modules=pygame"
+    ],
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "workbench.colorTheme": "Palenight Theme",
+    "arduino.additionalUrls": [
+        "http://arduino.esp8266.com/stable/package_esp8266com_index.json"
+    ],
+    "git.path": "",
+    "github.gitCommand": "C:\\Program Files\\Git\\bin\\git.exe",
+    "git.enableSmartCommit": true,
+    "gitlens.views.commits.files.layout": "tree",
+    "arduino.ignoreBoards": [
+        "WeMos D1"
+    ],
+    "git.autofetch": true,
+    "editor.minimap.enabled": false,
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": true,
+    "editor.fontFamily": "FiraCode Nerd Font; \"monospace\"",
+    "terminal.integrated.fontFamily": "'FiraCode Nerd Font Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true
+}
