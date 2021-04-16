@@ -1,7 +1,6 @@
 {
     "port": "COM6",
-    "configuration": "cpu=atmega328",
-    "board": "arduino:avr:nano",
+    "board": "arduino:avr:uno",
     "programmer": "arduino:avrispmkii",
     "sketch": "FirstProgram\\Firstprogram.ino"
 }
