@@ -1,0 +1,18 @@
+Inroductory Speech by Raúl (Station) Perez
+Theme: Technology and coding
+
+Hi! My name is Raúl Pérez but, you can also call me Station.
+
+Today i am going to talk about technology and why coding is hard.
+
+First, let's start with technology. To this day, almost everything has a "Smart" counterpart and I don't complain that a fridge before had no screen and now It has one, the problem is that now everything you do on one of this devices, including your phones and computers, are compiling data to have "more relevant ads".
+
+And you might say:
+I am a citizen like any other citizen, I don't care that google or microsoft collects my data because i have nothing to hide.
+
+And that might be a valid reason, exept it isn't.
+
+The problem here is not that google nor microsoft collects my data, the real problem is what it does with your data.
+System76, a linux based company, makes money, not from their OS (Or operative system), they make money from their powerful hardware. And their software is customizable, and free to use on any device (Exept mobile).
+
+Now the Internet is a huge data bank of every user of the world (Exept those who use browsers like librewolf, Firefox, Edge, Safari, etc...) and you are probably one of millions of people whose information is on that bank.
