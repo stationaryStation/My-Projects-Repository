@@ -2,5 +2,5 @@
     "port": "COM6",
     "board": "arduino:avr:uno",
     "programmer": "arduino:avrispmkii",
-    "sketch": "FirstProgram\\Firstprogram.ino"
+    "sketch": "SecondProgram\\My Programs.ino"
 }
