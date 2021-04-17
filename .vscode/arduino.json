@@ -1,6 +1,7 @@
 {
     "port": "COM6",
-    "board": "arduino:avr:uno",
+    "board": "arduino:avr:nano",
     "programmer": "arduino:avrispmkii",
-    "sketch": "SecondProgram\\My Programs.ino"
+    "sketch": "Arduino Programs\\ThirdProgram\\nameMorse.ino",
+    "configuration": "cpu=atmega328"
 }
