@@ -2,6 +2,6 @@
     "port": "COM4",
     "board": "arduino:avr:nano",
     "programmer": "arduino:avrispmkii",
-    "sketch": "Arduino Programs\\ThirdProgram\\nameMorse.ino",
+    "sketch": "Arduino Programs\\stationaryStation's Programs\\BuzzerHappyBirthday\\BuzzerHappyBirthday.ino",
     "configuration": "cpu=atmega328"
 }
