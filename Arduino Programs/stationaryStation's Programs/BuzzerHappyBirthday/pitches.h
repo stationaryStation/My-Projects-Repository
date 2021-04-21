@@ -91,4 +91,4 @@
 #define NOTE_CS8 4435
 #define NOTE_D8  4699
 #define NOTE_DS8 4978
-// C= Do D= Re  E= Mi  F=Fa  G= Sol  A=La  B=Si
+// do=E  re=F  mi=G  fa=A  sol=B  la=C  si=D
