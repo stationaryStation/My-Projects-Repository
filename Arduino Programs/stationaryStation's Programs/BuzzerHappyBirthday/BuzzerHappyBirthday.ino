@@ -1,5 +1,5 @@
 // BuzzerHappyBirthday by stationaryStation
-// A buzzer and pitches.h are required to run the code. 
+// A buzzer and pitches.h are required to run the code. Make sure to inert the buzzer on the pin D6.
 // More of this is available at www.github.com/stationaryStation/My-Projects-Repository/
 //  Coded in VSCODE with PlatformIO and Arduino 1.18.13
 #include "pitches.h"
