@@ -1,18 +1,21 @@
 #include <Servo.h>
-#include <tones.h>
+#include "pitches.h"
 Servo motor;
 void setup()
 {
     
-   motor.attach(7);
+
+}
+void loop()
+{
+     motor.attach(7);
     motor.write(170);
+    tone(6, NOTE_B5, 300);
     delay(1200);
     motor.write(0);
     delay(1200);
     motor.write(-45); 
-}
-
-void loop()
-{
-  
+    tone(6, NOTE_E6, 300);
+    delay(1200);
+    
 }
