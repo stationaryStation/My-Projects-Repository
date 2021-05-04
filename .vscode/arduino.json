@@ -1,7 +1,7 @@
 {
-    "port": "COM4",
+    "port": "/dev/ttyUSB0",
     "board": "arduino:avr:nano",
     "programmer": "arduino:avrispmkii",
-    "sketch": "Arduino Programs\\stationaryStation's Programs\\BuzzerHappyBirthday\\BuzzerHappyBirthday.ino",
+    "sketch": "Arduino Programs/stationaryStation's Programs/ServoMotor/ServoMotor.ino",
     "configuration": "cpu=atmega328"
 }
