@@ -20,7 +20,7 @@
         },
         {
             "name": "Arduino",
-            "compilerPath": "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\bin\\avr-g++",
+            "compilerPath": "/home/thinkpad/Arduino IDE/arduino-1.8.13/hardware/tools/avr/bin/avr-g++",
             "compilerArgs": [
                 "-std=gnu++11",
                 "-fpermissive",
@@ -32,14 +32,15 @@
             ],
             "intelliSenseMode": "gcc-x64",
             "includePath": [
-                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
-                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\eightanaloginputs",
-                "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include",
-                "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include-fixed",
-                "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\avr\\include"
+                "/home/thinkpad/Arduino IDE/arduino-1.8.13/hardware/arduino/avr/cores/arduino",
+                "/home/thinkpad/Arduino IDE/arduino-1.8.13/hardware/arduino/avr/variants/eightanaloginputs",
+                "/home/thinkpad/Arduino IDE/arduino-1.8.13/libraries/Servo/src",
+                "/home/thinkpad/Arduino IDE/arduino-1.8.13/hardware/tools/avr/lib/gcc/avr/7.3.0/include",
+                "/home/thinkpad/Arduino IDE/arduino-1.8.13/hardware/tools/avr/lib/gcc/avr/7.3.0/include-fixed",
+                "/home/thinkpad/Arduino IDE/arduino-1.8.13/hardware/tools/avr/avr/include"
             ],
             "forcedInclude": [
-                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+                "/home/thinkpad/Arduino IDE/arduino-1.8.13/hardware/arduino/avr/cores/arduino/Arduino.h"
             ],
             "cStandard": "c11",
             "cppStandard": "c++11",
