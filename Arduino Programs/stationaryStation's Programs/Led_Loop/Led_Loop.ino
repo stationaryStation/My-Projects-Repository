@@ -2,13 +2,15 @@
 void setup()
 {
     pinMode(13, OUTPUT);
-
-    digitalWrite(13, HIGH);
-    delay (1000);
-    digitalWrite(13, LOW);
-    delay(1000);
+    for (int i = 0; i < 5; 1 + i)
+    {
+        tone(12, 262);
+        delay(500);
+        noTone(12);
+        delay(500);
+    }
+    pinMode(13, INPUT);
 }
-
 void loop()
 {
     
